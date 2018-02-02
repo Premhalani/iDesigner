@@ -4,6 +4,7 @@ VR Android Application
 (Beta Application)
 
 Demo Link: https://www.youtube.com/watch?v=0XRGWBYE03c
+
 APK Link: https://drive.google.com/open?id=1VgD65qxmdKGUtuJZfI3g5dfG5fCHojtF
 
 This is a VR Android application that was built using Unity3D and can be used with VR headsets like Google Carboard. Using the application, users can redesign their home without having to pay a professional decorator. They can mix and match colors and furniture in an immersive way using VR headset. 
